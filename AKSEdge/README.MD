@@ -1,0 +1,1 @@
+Download and extract the [AKS Edge Essentials MSI](https://aka.ms/aks-edge/k8s-msi) binary and the [Windows node files](https://aka.ms/aks-edge/windows-node-zip) zip here
