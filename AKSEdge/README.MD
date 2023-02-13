@@ -1,1 +1,2 @@
-Download and extract the [AKS Edge Essentials MSI](https://aka.ms/aks-edge/k8s-msi) binary and the [Windows node files](https://aka.ms/aks-edge/windows-node-zip) zip here
+1. Download and extract the [AKS Edge Essentials MSI](https://aka.ms/aks-edge/k8s-msi) binary and the [Windows node files](https://aka.ms/aks-edge/windows-node-zip) zip here.
+2. Edit the **0.InstallAKSEdgeWithMixMode.ps1** script to run your version of the msi downloaded.

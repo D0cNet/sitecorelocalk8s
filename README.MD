@@ -98,7 +98,7 @@ This POC uses the  Microsoft [AKS Edge Essentials Preview](https://learn.microso
 
 ### Prerequisites
 
-* Download and extract the [AKS Edge Essentials MSI](https://aka.ms/aks-edge/k8s-msi) binary and the [Windows node files](https://aka.ms/aks-edge/windows-node-zip) zip into the ASKEdge folder
+* Download and extract the [AKS Edge Essentials MSI](https://aka.ms/aks-edge/k8s-msi) binary and the [Windows node files](https://aka.ms/aks-edge/windows-node-zip) zip into the ASKEdge folder (Currently using AksEdge-K8s-1.0.266.0)
 * Windows 10/11 Enterprise/Pro
 * Ensure you PC has Hyper-V enabled
 * A Multi-core desktop with at least 2.5Ghz, 32-64GB RAM and 250-500GB SSD Hard Drive is preferred (**Recommened based on my local setup**)
